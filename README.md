@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tahirkhan54321
 - 👀 I’m interested in learning as much as I can
-- 🌱 I’m currently learning Java at Newcastle University
 - 💞️ I’m looking to collaborate on anything once I know more
 - 📫 How to reach me - via DM
 
